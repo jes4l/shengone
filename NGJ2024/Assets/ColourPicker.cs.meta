@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 0dacce7426b01f44993b5476de5b1f8c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - camera: {instanceID: 0}
+  - SkinColour: {instanceID: 0}
+  - HairColour: {instanceID: 0}
+  - renderer: {instanceID: 0}
+  - skinColourRenderer: {instanceID: 0}
+  - hairColourRenderer: {instanceID: 0}
+  - playerTexture: {instanceID: 0}
+  - player: {instanceID: 0}
+  - black_skin_black_hair: {fileID: 919132149155446097, guid: 642c47137de68274482f7cd9584ec215, type: 3}
+  - white_skin_black_hair: {fileID: 919132149155446097, guid: 8f8c3ee553effe843ae0e9d8348bee62, type: 3}
+  - brown_skin_black_hair: {fileID: 919132149155446097, guid: d47ca272dd0546240a407c7b790095a9, type: 3}
+  - yellow_skin_black_hair: {fileID: 919132149155446097, guid: 1ec1fbfa7ee16f046b4367b5a7f69f0a, type: 3}
+  - black_skin_brunette_hair: {fileID: 919132149155446097, guid: f25cdd40ac609fa44ab7e2bb1612a539, type: 3}
+  - white_skin_brunette_hair: {fileID: 919132149155446097, guid: d9e6008b4394d494fa7b8c476135ab46, type: 3}
+  - brown_skin_brunette_hair: {fileID: 919132149155446097, guid: 28ec5b70d3886e549b7a906fbca5cea4, type: 3}
+  - yellow_skin_brunette_hair: {fileID: 919132149155446097, guid: 0e4d9caba4a770a42b1a7bac85372396, type: 3}
+  - black_skin_blonde_hair: {fileID: 919132149155446097, guid: 73c34b9a12fd9a14881ee32f0fa49b8f, type: 3}
+  - white_skin_blonde_hair: {fileID: 919132149155446097, guid: e0046f5d45942124ebd4c259bc9058d9, type: 3}
+  - brown_skin_blonde_hair: {fileID: 919132149155446097, guid: b4feef4133c922f4f9551bd6fffc1607, type: 3}
+  - yellow_skin_blonde_hair: {fileID: 919132149155446097, guid: 30f48b3aed925a04e9e5c1fb4d4e31ad, type: 3}
+  - black_skin_ginger_hair: {fileID: 919132149155446097, guid: 15ead7325c0740148b2218a13eda208f, type: 3}
+  - white_skin_ginger_hair: {fileID: 919132149155446097, guid: eff509fb3561af24487577e99d3505c6, type: 3}
+  - brown_skin_ginger_hair: {fileID: 919132149155446097, guid: 2e1f172fb6fbe944faa8cbacd818c33b, type: 3}
+  - yellow_skin_ginger_hair: {fileID: 919132149155446097, guid: 91914f4ce3ddafa44afcf81842063724, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
